@@ -10,8 +10,8 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>Denver, Colorado based developer specializing in Rails, AngularJS, and JavaScript.</p>
+     <h1>Innovative and Effective Web Developer</h1>
+     <p>Denver, Colorado based programmer specializing in Rails, AngularJS, and JavaScript.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
